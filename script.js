@@ -23,7 +23,7 @@ setInterval(function () {
 // =====================================Photo Change section start ============================================
 
 setInterval(() => {
-    let photos = ['1.jpg', '2.webp', '3.webp', '4.webp', '5.webp', '6.webp', '7.webp'];
+    let photos = ['1.jpg', '2.webp', '3.webp', '4.webp', '5.webp', '6.webp', '7.webp', '8.webp', '9.webp', '10.webp'];
     let randomNum2 = Math.floor(Math.random() * photos.length);
     let randomPhoto = photos[randomNum2];
 
